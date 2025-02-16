@@ -1,0 +1,2 @@
+# Heart-Health-Analyzer
+ Heart Health Analyzer is a system that uses Machine Learning and Data Mining to predict the risk of heart disease early, based on factors like age, blood pressure, and cholesterol. By employing algorithms like Naïve Bayes and Decision Trees, it aims to enhance diagnostic accuracy, reduce treatment costs, and improve healthcare outcomes. This project, developed as part of APP - Advanced Python Programming by Group15, marks a significant step toward efficient and cost-effective heart health management.
